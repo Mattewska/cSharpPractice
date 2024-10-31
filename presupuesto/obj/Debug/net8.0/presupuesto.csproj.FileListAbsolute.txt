@@ -1,0 +1,14 @@
+/Users/mathewska/Documents/dev/cSharp/presupuesto/bin/Debug/net8.0/presupuesto
+/Users/mathewska/Documents/dev/cSharp/presupuesto/bin/Debug/net8.0/presupuesto.deps.json
+/Users/mathewska/Documents/dev/cSharp/presupuesto/bin/Debug/net8.0/presupuesto.runtimeconfig.json
+/Users/mathewska/Documents/dev/cSharp/presupuesto/bin/Debug/net8.0/presupuesto.dll
+/Users/mathewska/Documents/dev/cSharp/presupuesto/bin/Debug/net8.0/presupuesto.pdb
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/presupuesto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/presupuesto.AssemblyInfoInputs.cache
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/presupuesto.AssemblyInfo.cs
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/presupuesto.csproj.CoreCompileInputs.cache
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/presupuesto.dll
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/refint/presupuesto.dll
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/presupuesto.pdb
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/presupuesto.genruntimeconfig.cache
+/Users/mathewska/Documents/dev/cSharp/presupuesto/obj/Debug/net8.0/ref/presupuesto.dll

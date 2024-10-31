@@ -1,0 +1,6 @@
+@restapi=http://localhost:5009
+
+GET {{restapi}}/Test/testApi
+Accept: application/json
+
+###
